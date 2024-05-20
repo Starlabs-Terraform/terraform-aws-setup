@@ -1,5 +1,5 @@
-# Terraform AWS Setup
-## Terraform Backend S3 - Setup
+# Terraform-aws-setup
+### Terraform Backend S3 - Setup
 
 > ### Terraform Setup
 > ```
